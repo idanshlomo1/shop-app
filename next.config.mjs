@@ -4,7 +4,7 @@ const nextConfig = {
   images: {
     domains: [
       'localhost',
-      'shopfilesx.netlify.app',
+      'shopfilesx.railway.app',
     ]
   },
 };
