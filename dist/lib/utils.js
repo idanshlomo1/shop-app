@@ -50,7 +50,7 @@ function constructMetadata(_a) {
             description: description,
             images: [image],
             creator: '@Idan Shlomo',
-        }, icons: icons, metadataBase: new URL('https://shopfiles.netlify.app') }, (noIndex && {
+        }, icons: icons, metadataBase: new URL('https://shopfilesx.netlify.app') }, (noIndex && {
         robots: {
             index: false,
             follow: false,

@@ -57,7 +57,7 @@ export function constructMetadata({
       creator: '@Idan Shlomo',
     },
     icons,
-    metadataBase: new URL('https://shopfiles.netlify.app'),
+    metadataBase: new URL('https://shopfilesx.netlify.app'),
     ...(noIndex && {
       robots: {
         index: false,
