@@ -57,7 +57,7 @@ export function constructMetadata({
       creator: '@Idan Shlomo',
     },
     icons,
-    metadataBase: new URL('https://shopfilesx.railway.app'),
+    metadataBase: new URL('https://shopfiles.railway.app'),
     ...(noIndex && {
       robots: {
         index: false,
