@@ -30,7 +30,7 @@ export default buildConfig({
     },
   },
   rateLimit: {
-    max: 2000,
+    max: 8000,
   },
   editor: slateEditor({}),
   db: mongooseAdapter({
